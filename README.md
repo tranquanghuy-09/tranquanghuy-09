@@ -31,7 +31,7 @@
  <tr>
     <td width="60%">
      
-## 🛠️ Skills
+## 🛠️ My Skills
 
 ### Back-end Development:
 
@@ -98,6 +98,14 @@
 
 <!-- ![PyPI](https://img.shields.io/badge/pypi-3775A9?style=flat&logo=pypi&logoColor=white)&nbsp; -->
 
+### Operating Systems:
+![MacOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)&nbsp;
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)&nbsp;
+
+
+<hr>
 
 #### Data Analytics 
 
