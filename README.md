@@ -232,6 +232,12 @@
      <p align="center">
   <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
 </p>
+<p align="center">
+<b> Thanks for visiting :heart: </b>
+<br>
+<img src="https://profile-counter.glitch.me/tranquanghuy-09/count.svg" />
+
+</p>
   </td>
  </tr>
 </table>
