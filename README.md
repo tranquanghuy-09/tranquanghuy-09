@@ -229,7 +229,9 @@
  </br>
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranquanghuy-09&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
 </p>
-     
+     <p align="center">
+  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
+</p>
   </td>
  </tr>
 </table>
