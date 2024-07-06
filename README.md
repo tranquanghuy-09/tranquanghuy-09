@@ -29,7 +29,7 @@
 <table width="100%" >
 
  <tr>
-    <td width="70%">
+    <td width="65%">
      
 ## 🛠️ My Skills
 
