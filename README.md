@@ -3,7 +3,7 @@
 <br>
 <div style="align:left;">
 <img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200 align="left"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Tran+Huy;Full+stack+web+developer...;Software+Enginee+Enthusiast...;Contact:+tranquanghuyit09@gmail.com" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Tran+Huy;Full+stack+web+developer...;Software+Enginee;Contact:+tranquanghuyit09@gmail.com" />
 </div>
  <p>- <i>I am a final-year Software Engineering student at the Industrial University of Ho Chi Minh City, aspiring to become a proficient full-stack developer. With strong problem-solving abilities and a passion for coding, I thrive in team environments. My diverse skill set and commitment to writing high-quality code make me a promising software developer.</i></p>
 <br>
