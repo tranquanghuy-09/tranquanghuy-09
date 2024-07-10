@@ -190,9 +190,8 @@
     <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
       alt="virtualbox"/>
   </a>
-  <a href="https://ubuntu.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
-  </a>
+![Parallels Desktop](https://img.shields.io/badge/Parallels%20Desktop-E00000?style=for-the-badge&logo=Parallels&logoColor=white)&nbsp;
+
 
   <hr>
 
