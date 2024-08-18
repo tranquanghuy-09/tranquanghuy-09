@@ -5,7 +5,9 @@
 <img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200 align="left"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Tran+Huy;Java+Developer;Full+stack+web+developer...;Software+Enginee;Contact:+tranquanghuyit09@gmail.com" />
 </div>
- <p>- <i>I am currently working as a Java Developer, with the goal of developing my skills to become a proficient full-stack developer. With a strong foundation in Software Engineering and a passion for coding, I am committed to writing high-quality code and contributing effectively in the workplace.</i></p>
+ <p>- <i>I am currently working as a Java Developer, with the goal of developing my skills to become a proficient full-stack developer. With a strong foundation in Software Engineering and a passion for coding, I am committed to writing high-quality code and contributing effectively in the workplace.
+ <br> <br>
+ </i></p>
 <br>
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
